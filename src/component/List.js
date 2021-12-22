@@ -18,7 +18,7 @@ const List=()=> {
 
                 <nav>
                     <div className='list'> {/* second child */}
-                        <NavLink exact to='/' className='listItem'
+                        <NavLink exact='true' to='/' className='listItem'
                          activeClassName='activeItem'>Home</NavLink>
                         <NavLink to='/about' className='listItem'
                          activeClassName='activeItem'>About</NavLink>
