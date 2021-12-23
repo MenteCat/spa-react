@@ -1,5 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import homeimg from './images/homeimg.png';
+import '../css/HomeAbout.css';
 
 const Home=()=> {
     return(
@@ -19,8 +21,9 @@ const Home=()=> {
                     >Read More</NavLink>
                     </div>
                 </div>
-
-
+            </div>
+            <div className='imgContainer'>
+                <img src={homeimg} alt='' />
 
             </div>
 
