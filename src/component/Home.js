@@ -2,32 +2,21 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import homeimg from './images/homeimg.png';
 import '../css/HomeAbout.css';
+import Same from './Same';
+
 
 const Home=()=> {
     return(
         <>
-        <div className='mainSection'>
-            <div className='contentBox'>
-                <h1>She sights a Bird, she chuckles</h1>
-                <p>
-                She sights a Bird, she chuckles <br></br>
-                She flattens then she crawls <br></br>
-                She runs without the look of feet <br></br>
-                Her eyes increase to Balls … <br></br>
-                </p>
-                <div className='btnBox'>
-                    <div className='btn'>
-                    <NavLink to='/about' className='readMore'
-                    >Read More</NavLink>
-                    </div>
-                </div>
-            </div>
-            <div className='imgContainer'>
-                <img src={homeimg} alt='' />
-
-            </div>
-
-        </div>
+        <Same 
+        title='She sights a Bird, she chuckles'
+        text='She sights a Bird, she chuckles
+        She flattens then she crawls
+        She runs without the look of feet
+        Her eyes increase to Balls …'
+        imgsrc={homeimg}
+        btn='Read more'
+        />
         </>
 
     )
