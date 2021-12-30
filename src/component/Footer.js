@@ -18,8 +18,7 @@ const Footer=()=> {
                 </div>
 
                 <div className='copyright'>
-                    <p>All rights reserved &copy;</p>
-                    <p>Made with love by MenteCat</p>
+                    <p>Made with love by MenteCat &copy;</p>
                 </div>
 
             </div>

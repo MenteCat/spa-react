@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import homeimg from './images/homeimg.png';
+
 
 const Same=(props)=> {
     return(
@@ -17,14 +17,12 @@ const Same=(props)=> {
                     >{props.btn}</NavLink>
                     </div>
                 </div>
-            </div>            
-            
-        </div>
+            </div> 
             <div className='imgContainer'>
                 <img src={props.imgsrc} alt='' />
 
-            </div>
-        
+            </div>            
+        </div>
         </>
 
     )
