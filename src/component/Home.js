@@ -9,11 +9,10 @@ const Home=()=> {
     return(
         <>
         <Same 
-        title='She sights a Bird, she chuckles'
-        text='She sights a Bird, she chuckles
-        She flattens then she crawls
-        She runs without the look of feet
-        Her eyes increase to Balls …'
+        title='Cat Rescue Centre'
+        text='Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Molestie ac feugiat sed lectus vestibulum.'
         imgsrc={homeimg}
         btn='Read more'
         />

@@ -3,17 +3,26 @@
     margin: 1em 0; 
     display: flex;
     justify-content: space-around;
+    font-family: 'Poppins', sans-serif;
+    color: #4a3e3e
+
+
 }
 
 h1 {
     text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #4a3e3e
+   
+   
 }
 
 .card {
     width: 25%;
     text-align: center;
-    box-shadow: 0 0 3px #000;
+    box-shadow: 0 0 3px #bce2e1;
     padding: 1em;
+    margin-bottom: 5%;
 }
 
 .serviceImg {

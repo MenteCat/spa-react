@@ -1,6 +1,9 @@
 .contact {
     max-width: 990px;
     margin: 2em auto;
+    font-family: 'Poppins', sans-serif;
+    color: #4a3e3e;
+    margin-bottom: 5%;
 }
 
 input {
