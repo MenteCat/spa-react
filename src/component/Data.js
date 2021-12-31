@@ -1,23 +1,23 @@
 const Data=[
     {
-        Stitle:'Pet fostering',
-        imgsrc:'https://www.pexels.com/photo/white-and-grey-kitten-on-brown-and-black-leopard-print-textile-45201/',
+        Stitle:'Cat fostering',
+        imgsrc:'https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
         desc:"Presumptuous maid! With looks intent",
-        btnService:"Start fostering"
+        btnService:"Fostering"
     },
 
     {
-        Stitle:'Pet fostering',
-        imgsrc:'https://www.pexels.com/photo/white-and-grey-kitten-on-brown-and-black-leopard-print-textile-45201/',
+        Stitle:'Cat adoption',
+        imgsrc:'https://images.pexels.com/photos/96428/pexels-photo-96428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
         desc:"Presumptuous maid! With looks intent",
-        btnService:"Start fostering"
+        btnService:"Adoption"
     },
 
     {
-        Stitle:'Pet fostering',
-        imgsrc:'https://www.pexels.com/photo/white-and-grey-kitten-on-brown-and-black-leopard-print-textile-45201/',
+        Stitle:'Volunteer with us',
+        imgsrc:'https://images.pexels.com/photos/1643456/pexels-photo-1643456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
         desc:"Presumptuous maid! With looks intent",
-        btnService:"Start fostering"
+        btnService:"Volunteer"
     }
 
     
